@@ -20,6 +20,8 @@ You will be provided with a design mockup as a PDF-file and must replicate that 
 
 
 ##Submission Review Progress:
+
+04/25/2015:
 - Assessment 1 : You forgot to configure the viewport line, so your web is not responsive.
 - Assessment 2 : You need to fix some indentation issues.
 
