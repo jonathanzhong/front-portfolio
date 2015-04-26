@@ -21,7 +21,8 @@ You will be provided with a design mockup as a PDF-file and must replicate that 
 
 
 
-###Copyright:
+##Copyright:
 
  - Picture: http://www.thisiscolossal.com
  - This repository: Jonathan Zhong
+ - Mockup file: Udacity
