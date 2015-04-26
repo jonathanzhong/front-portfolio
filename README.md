@@ -10,7 +10,7 @@ You will be provided with a design mockup as a PDF-file and must replicate that 
 
 ##What I Done:
  - Build up portfolio website with provided mockup implementing HTML and CSS based on the framework of Bootstrap.
- - Applied responsive website design displaying contents relatively according to different screen sizes.
+ - Applied responsive website design displaying contents relatively according to different screen sizes. (Don't forget to add the code "<meta name = viewport content = "width = device-width, initial-scale = 1">", then you can define specific sponsive actions in CSS file, like font size, content rearrangement and etc, that the browser takes when the browser width changes)
 
 
 
