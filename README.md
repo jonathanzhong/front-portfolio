@@ -18,6 +18,12 @@ You will be provided with a design mockup as a PDF-file and must replicate that 
 ##Peek:
 ![Alt text](https://github.com/jonathanzhong/front-portfolio/blob/master/img/front-porfolio.png)
 
+
+##Submission Review Progress:
+- Assessment 1 : You forgot to configure the viewport line, so your web is not responsive.
+- Assessment 2 : You need to fix some indentation issues.
+
+
 ##Copyright:
 
  - Pictures:[http://www.thisiscolossal.com](http://www.thisiscolossal.com)
