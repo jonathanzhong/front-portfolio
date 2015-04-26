@@ -18,11 +18,8 @@ You will be provided with a design mockup as a PDF-file and must replicate that 
 ##Peek:
 ![Alt text](https://github.com/jonathanzhong/front-portfolio/blob/master/img/front-porfolio.png)
 
-
-
-
 ##Copyright:
 
- - Picture: http://www.thisiscolossal.com
+ - Pictures:[http://www.thisiscolossal.com](http://www.thisiscolossal.com)
  - This repository: Jonathan Zhong
- - Mockup file: Udacity
+ - Mockup file: [Udacity](http://www.udacity.com)
